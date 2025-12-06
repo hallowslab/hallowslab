@@ -8,7 +8,7 @@ Most of my projects revolve around **Python**, some frontends with **React**, an
 ### 🛠️ Tech Stack  
 - **Languages**:
 
-[![Languages](https://skillicons.dev/icons?i=py,js,html,react,go,rust,dotnet)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,js,html,go,rust,dotnet)](https://skillicons.dev)
 
 - **Frameworks**:
 
