@@ -11,6 +11,7 @@ Most of my projects revolve around **Python**, some frontends with **React**, an
 [![Languages](https://skillicons.dev/icons?i=py,js,html,react,go,rust,dotnet)](https://skillicons.dev)
 
 - **Frameworks**:
+
 [![Languages](https://skillicons.dev/icons?i=django,flask,astro,react,svelte)](https://skillicons.dev)
 
 - **Tools I use**: Git, Docker, Linux, VS Code
